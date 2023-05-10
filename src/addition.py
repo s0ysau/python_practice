@@ -1,6 +1,6 @@
-num1 = input("Input first number")
-num2 = input("Input second number")
+num1 = int(input("Input first number"))
+num2 = int(input("Input second number"))
 
-add = int(num1 + num2)
+add = num1 + num2
 
 print(add)
